@@ -49,7 +49,7 @@ about_profile_image: images/headshot.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name is Jens. I recently graduated from Utah State University with a Degree in Information Systems and have recently transitioned into the world of software development. In this role, I have leveraged my skills in SQL, Python, and HTML to quickly learn PHP and J.Query. As a full-stack developer I use my diverse skill set to work towrad user-centric software solutions. I thrive on solving complex problems and am driven by a passion for technology and continuous improvement.
 
-  Skills: <mark>SQL</mark>, <mark>Python</mark>, <mark>HTML</mark>, <mark>PHP</mark> and <mark>J.Query</mark>
+  Skills: <mark>SQL</mark> <mark>Python</mark> <mark>HTML</mark> <mark>PHP</mark> and <mark>J.Query</mark>
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
