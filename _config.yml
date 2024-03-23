@@ -47,8 +47,9 @@ linkedin_username: jenstpoulsen
 # about_title: About Me
 about_profile_image: images/headshot.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name is Jens. I recently graduated from Utah State University with a Degree in Information Systems and have recently transitioned into the world of software development. In this role, I have leveraged my skills in <mark>SQL</mark>, <mark>Python</mark>, and <mark>HTML</mark> to quickly learn <mark>PHP</mark> and <mark>J.Query</mark>. As a full-stack developer I use my diverse skill set to work towrad user-centric software solutions. I thrive on solving complex problems and am driven by a passion for technology and continuous improvement.
+  Hi, my name is Jens. I recently graduated from Utah State University with a Degree in Information Systems and have recently transitioned into the world of software development. In this role, I have leveraged my skills in SQL, Python, and HTML to quickly learn PHP and J.Query. As a full-stack developer I use my diverse skill set to work towrad user-centric software solutions. I thrive on solving complex problems and am driven by a passion for technology and continuous improvement.
 
+  Skills: <mark>SQL</mark>, <mark>Python</mark>, <mark>HTML</mark>, <mark>PHP</mark> and <mark>J.Query</mark>
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
@@ -73,41 +74,38 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: The Boring Company
-        link: boringcompany.com
+        title: Utah State University
         # link_text: boringcompany.com
-        sub_title: Senior Network System Administrator
-        caption: November 2017 - Present
-        quote: >
-          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+        sub_title: Website Assistant
+        caption: June 2022 - Mar 2024
+
         description: | # this will include new lines to allow paragraphs
-          Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
+          In the role I developed skills in the following areas:
+          - Google Analytics
+          - Bootstrap
+          - Omni CMS
+          - HTML
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Harvard University
-        caption: 2010 - 2013
-        sub_title: BSc Computer Science
-        quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
-        description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+        title: Utah State University
+        sub_title: BS Information Systems, Cybersecurity
+        # quote: >
+        #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+        # description: | # this will include new lines to allow paragraphs
+        #   During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
 
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+        #   I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
 
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
+      Alongside my interests in networks and software development some of my other interests and hobbies are:
+      - Sking
       - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
-
-      Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+      - Sports
 
 # Footer
 footer_show_references: true
