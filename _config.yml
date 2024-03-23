@@ -50,25 +50,25 @@ about_content: | # this will include new lines to allow paragraphs
   Hi, my name is Jens. I recently graduated from Utah State University with a Degree in Information Systems and have recently transitioned into the world of software development. In this role, I have leveraged my skills in SQL, Python, and HTML to quickly learn PHP and J.Query. As a full-stack developer I use my diverse skill set to work towrad user-centric software solutions. I thrive on solving complex problems and am driven by a passion for technology and continuous improvement.
 
   Skills: <mark>SQL</mark> <mark>Python</mark> <mark>HTML</mark> <mark>PHP</mark> and <mark>J.Query</mark>
-# content:
-#   - title: Projects # Title for the section
-#     layout: list # Type of content section (list/text)
-#     content:
-#       - layout: top-middle
-#         title: Super awesome project
-#         link: github.com/sproogen
-#         # link_text: Project Website
-#         additional_links:
-#           - title: sproogen/modern-resume-theme
-#             icon: fab fa-github
-#             url: github.com/sproogen/modern-resume-theme
-#           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-#           #   icon: fab fa-github
-#           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-#         quote: >
-#           This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
-#         description: | # this will include new lines to allow paragraphs
-#           I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+content:
+  #   - title: Projects # Title for the section
+  #     layout: list # Type of content section (list/text)
+  #     content:
+  #       - layout: top-middle
+  #         title: Super awesome project
+  #         link: github.com/sproogen
+  #         # link_text: Project Website
+  #         additional_links:
+  #           - title: sproogen/modern-resume-theme
+  #             icon: fab fa-github
+  #             url: github.com/sproogen/modern-resume-theme
+  #           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+  #           #   icon: fab fa-github
+  #           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+  #         quote: >
+  #           This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+  #         description: | # this will include new lines to allow paragraphs
+  #           I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
