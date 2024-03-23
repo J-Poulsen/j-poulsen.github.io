@@ -47,9 +47,7 @@ linkedin_username: jenstpoulsen
 # about_title: About Me
 about_profile_image: images/headshot.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
-
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  Hi, my name is Jens. I recently graduated from Utah State University with a Degree in Information Systems and have recently transitioned into the world of software development. In this role, I have leveraged my skills in <mark>SQL</mark>, <mark>Python</mark>, and <mark>HTML</mark> to quickly learn <mark>PHP</mark> and <mark>J.Query</mark>. As a full-stack developer I use my diverse skill set to work towrad user-centric software solutions. I thrive on solving complex problems and am driven by a passion for technology and continuous improvement.
 
 content:
   - title: Projects # Title for the section
